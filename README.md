@@ -4,7 +4,7 @@ Uma simples calculadora de Índice de Massa Corporal (IMC) desenvolvida em C, cr
 
 ## 📝 Descrição
 
-Este projeto calcula o IMC (Índice de Massa Corporal) de uma pessoa baseado em seu peso (em kg) e altura (em metros), fornecendo uma classificação detalhada do estado de saúde.
+Este projeto calcula o IMC (Índice de Massa Corporal) de uma pessoa baseado em seu peso (em kg) e altura (em metros), fornecendo uma classificação do estado de saúde.
 
 ## 🎯 Funcionalidades
 
